@@ -1,0 +1,9 @@
+## Interface: 60200
+## Title: Debbie's Amazingly Awesome Farewell Sayer
+## Version: 1.2.0
+## Notes: A simple addon that kindly whispers a customizable farewell message to all members of the group when you leave it.
+## Auther: Debbie
+## DefaultState: enabled
+## SavedVariables: FarewellMSG, FRWSAYERGroupSize
+
+DebbiesAmazinglyAwesomeFarewellSayer.lua
